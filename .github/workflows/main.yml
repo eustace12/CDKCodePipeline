@@ -18,4 +18,4 @@ jobs:
           package-name: release
           bump-minor-pre-major: true
           bump-patch-for-minor-pre-major: true
-          token: ${{ var.test }}
+          token: ${{ secrets.test }}
