@@ -1,7 +1,7 @@
 # CDKCodePipeline
 
 **CDKCodePipeline** is an AWS Cloud Development Kit (CDK) project that showcases best practices for Continuous Integration and Continuous Deployment (CI/CD) and Infrastructure as Code (IAC) using Python.
-
+ 
 ## Resources
 
 - [AWS CDK Best Practices Guide](https://docs.aws.amazon.com/cdk/v2/guide/best-practices.html)
