@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.4](https://github.com/eustace12/CDKCodePipeline/compare/v2.0.3...v2.0.4) (2023-12-13)
+
+
+### Bug Fixes
+
+* test ([1c4a7b0](https://github.com/eustace12/CDKCodePipeline/commit/1c4a7b0a3559fbad6f193e84c4527c2b40363b64))
+
 ## [2.0.3](https://github.com/eustace12/CDKCodePipeline/compare/v2.0.2...v2.0.3) (2023-12-13)
 
 
