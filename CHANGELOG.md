@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/eustace12/CDKCodePipeline/compare/v1.1.0...v2.0.0) (2023-12-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* sdsd
+
+### Features
+
+* sdsd ([fd7f111](https://github.com/eustace12/CDKCodePipeline/commit/fd7f1117cf8530c9bee04d969b981e435d19855a))
+
 ## [1.1.0](https://github.com/eustace12/CDKCodePipeline/compare/v1.0.0...v1.1.0) (2023-11-23)
 
 
